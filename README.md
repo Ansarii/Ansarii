@@ -27,6 +27,7 @@ class About extends Me
             Angular::class,
             ReactNative::class,
             Aws::class,
+            PHP::class
         ];
     }
 
