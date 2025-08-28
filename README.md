@@ -1,9 +1,19 @@
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=slateorange&animation=grow_out_in&layout=zues&font=Redressed)
+# 👋 Hi, I’m Mohiuddin Ansari
+<sub>Android | Flutter Developer | Always learning</sub>
+
+---
+
+![Android Dev Quote](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+> "Building apps, one widget at a time." 🤖
+
+---
+
+## 💻 About Me (Code Style)
 
 ```php
-<?java/kotlin/flutter
+<?php
 
-namespace Mohiuddin Ansari;
+namespace MohiuddinAnsari;
 
 class About extends Me
 {
@@ -11,9 +21,8 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Freelane',
-                'position' => 'Android | Flutter Developer'
-            ]
+                'position' => 'Android | Flutter Developer',
+            ],
         ];
     }
 
@@ -21,13 +30,14 @@ class About extends Me
     {
         return [
             Java::class,
-            Dart::class,
             Kotlin::class,
+            Dart::class,
+            Flutter::class,
             Firebase::class,
             Angular::class,
             ReactNative::class,
             Aws::class,
-            PHP::class
+            Php::class,
         ];
     }
 
@@ -35,3 +45,4 @@ class About extends Me
     {
         return 'To contribute to open source.';
     }
+}
